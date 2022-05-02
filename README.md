@@ -1,4 +1,5 @@
 # Пример для курса Асинхронная архитектура III
+[Курс Асинхронная архитектура - https://education.borshev.com/architecture](https://education.borshev.com/architecture)
 
 ## Контекст и проблема
 
